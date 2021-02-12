@@ -30,7 +30,11 @@
 <!--  < \epsilon < 1 -->
 
 
-![back off](http://www.sciweavers.org/tex2img.php?eq=%20%5Cwidehat%7BP%7D%20%28w_%7Bi%7D%20%7C%20w_%7Bi-1%7D%29%20%20%3D%20%20%5Clambda_%7B1%7DP%28w_%7Bi%7D%20%7C%20w_%7Bi-1%7D%29%20%2B%20%5Clambda_%7B2%7D%20P%28w_%7Bi%7D%29%20%2B%20%5Clambda_%7B3%7D%20%20%5Cepsilon%0A%0A%5Clambda_%7B1%7D%20%2B%20%5Clambda_%7B2%7D%20%2B%20%5Clambda_%7B3%7D%20%3D%201%0A%0A0%20%3C%20%5Cepsilon%20%3C%201&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+![back off](docs/image1.png?raw=true)
+
+![back off](docs/image2.png?raw=true)
+
+![back off](docs/image3.png?raw=true)
 
 
 راستی توی کد یه فیلتر داره که کلمات کمتر از ۲ رو داره پاک میکنه از مدل اون هم توی Main.java تعریف شده و میتونید به عنوان پارمتر به تابع Model.removeLowFrequencies(LIMIT) بدید.
