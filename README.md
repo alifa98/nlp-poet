@@ -29,12 +29,19 @@
 <!-- \lambda_{1} + \lambda_{2} + \lambda_{3} = 1 -->
 <!--  < \epsilon < 1 -->
 
+</div>
 
+<div dir="ltr">
+  
 ![back off](docs/image1.png?raw=true)
+
+![back off](docs/image3.png?raw=true)
 
 ![back off](docs/image2.png?raw=true)
 
-![back off](docs/image3.png?raw=true)
+</div>
+
+<div dir="rtl">
 
 
 راستی توی کد یه فیلتر داره که کلمات کمتر از ۲ رو داره پاک میکنه از مدل اون هم توی Main.java تعریف شده و میتونید به عنوان پارمتر به تابع Model.removeLowFrequencies(LIMIT) بدید.
